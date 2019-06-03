@@ -12,7 +12,7 @@ public class SomeClassTest {
     }
 
     @Test
-    public void shouldFail(){
+    public void shouldFail() {
         fail("Done");
     }
 }
