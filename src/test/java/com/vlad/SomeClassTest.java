@@ -13,6 +13,6 @@ public class SomeClassTest {
 
     @Test
     public void shouldFalil(){
-        fail("Done");
+        fail("Done finally");
     }
 }
